@@ -52,6 +52,14 @@ No momento, venho focando meus estudos em programação e construção de projet
 />
 <img 
     align="left" 
+    alt="Pug" 
+    title="Pug"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://raw.githubusercontent.com/ghaschel/vscode-angular-pug/master/assets/angular-pug.png" 
+/>
+<img 
+    align="left" 
     alt="Sequelize" 
     title="Sequelize"
     width="30px" 
